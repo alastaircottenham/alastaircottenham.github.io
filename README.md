@@ -35,6 +35,4 @@ Other certifications I am aiming to towards are;
 <!-- CONTACT -->
 ## Contact
 
-[Email](alastair.cottenham@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/alastaircottenham)
+Email: alastair.cottenham@gmail.com
