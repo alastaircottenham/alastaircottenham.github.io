@@ -25,7 +25,6 @@ Currently I am studying full time to obtain my Cert IV in Information Technology
 
 Other certifications I am aiming to towards are;
 
-* Comptia A+
 * AWS Certified Solutions Architect Associate
 * CCNA
 * Linus RHCSA
@@ -35,4 +34,5 @@ Other certifications I am aiming to towards are;
 <!-- CONTACT -->
 ## Contact
 
-Email: alastair.cottenham@gmail.com
+Website: https://alastaircottenham.tech
+Email: alastair@alastaircottenham.tech
